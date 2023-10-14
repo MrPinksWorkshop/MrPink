@@ -12,4 +12,4 @@ Stack:
 -------------------
 ![MrPink github stats](https://github-readme-stats.vercel.app/api?username=MrPinksWorkshop&show_icons=true&theme=radical&count_private=true&include_all_commits=true) 
 ![MrPink github streak](https://github-readme-streak-stats.herokuapp.com/?user=MrPinksWorkshop&theme=radical&include_all_commits=true&count_private=true)
-![MrPink's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPinksWorkshop&show_icons=true&theme=radical all_commits=true&count_private=true)
+[![MrPink GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPinksWorkshop)](https://github.com/anuraghazra/github-readme-stats)
